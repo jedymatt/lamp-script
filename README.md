@@ -24,3 +24,4 @@ sudo service apache2 restart
 ```bash
 sudo chown www-data:www-data /var/www/
 ```
+<https://stackoverflow.com/questions/23411520/how-to-fix-error-laravel-log-could-not-be-opened>
