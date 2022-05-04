@@ -1,5 +1,11 @@
 # MySQL
 
+## Start mysql
+
+```bash
+sudo service mysql restart
+```
+
 ## Entering and exiting mysql shell
 
 ```bash
