@@ -29,7 +29,7 @@ FLUSH PRIVILEGES;
 ## Change user password
 
 ```sql
-ALTER USER 'root'@'localhost' IDENTIFIED BY 'new_password_here';
+ALTER USER 'root'@'%' IDENTIFIED BY 'new_password_here';
 ```
 
 ## Grant all permissions
