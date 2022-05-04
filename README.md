@@ -1,4 +1,4 @@
-# lamp-script
+# Linux Development Environment
 
 Setup php8.1
 
