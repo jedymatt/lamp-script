@@ -1,4 +1,4 @@
-# Linux development environment
+# Linux Development Environment
 
 Setup php8.1
 
