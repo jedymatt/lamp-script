@@ -17,3 +17,10 @@ sudo apt install phpmyadmin
 ```bash
 sudo service apache2 restart
 ```
+
+
+## Changing directory permissions
+
+```bash
+sudo chown www-data:www-data /var/www/
+```
