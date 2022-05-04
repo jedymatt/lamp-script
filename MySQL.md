@@ -12,14 +12,6 @@ EXIT;
 
 ## Creating admin user
 
-Enter mysql shell
-
-```bash
-sudo mysql
-```
-
-Inside mysql shell
-
 ```sql
 CREATE USER 'dbadmin'@'%' IDENTIFIED BY 'password_here';
 
@@ -40,4 +32,10 @@ ALTER USER 'root'@'localhost' IDENTIFIED BY 'new_password_here';
 GRANT ALL PRIVILEGES ON *.* TO 'dbadmin'@'%';
 
 FLUSH PRIVILEGES;
+```
+
+## Create database
+
+```sql
+CREATE DATABASE new_database;
 ```
