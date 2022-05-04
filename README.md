@@ -3,7 +3,7 @@
 ## Setup php8.1
 
 ```bash
-curl -o - https://raw.githubusercontent.com/jedymatt/lamp-script/main/setup-lamp-php81.sh | bash
+curl -o - https://raw.githubusercontent.com/jedymatt/linux-dev-environment/main/setup-lamp-php81.sh | bash
 ```
 
 ## Setup phpmyadmin
