@@ -5,6 +5,7 @@ curl -o - https://raw.githubusercontent.com/jedymatt/lamp-script/main/setup-php8
 ```
 
 Setup phpmyadmin
+
 ```bash
 sudo apt install phpmyadmin
 ```
