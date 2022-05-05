@@ -29,3 +29,5 @@ sudo chown www-data:www-data /var/www/
 
 ## Larasail
 <https://github.com/thedevdojo/larasail#installation>
+
+## Create symbolic link
