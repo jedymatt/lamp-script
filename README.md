@@ -33,3 +33,8 @@ sudo chown www-data:www-data /var/www/
 ## Create symbolic link
 
 <https://linuxhint.com/create_symbolic_link_ubuntu/>
+
+
+## GitHub Cli
+
+<https://github.com/cli/cli/blob/trunk/docs/install_linux.md#official-sources>
