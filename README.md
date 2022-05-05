@@ -31,3 +31,5 @@ sudo chown www-data:www-data /var/www/
 <https://github.com/thedevdojo/larasail#installation>
 
 ## Create symbolic link
+
+<https://linuxhint.com/create_symbolic_link_ubuntu/>
