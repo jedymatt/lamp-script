@@ -3,6 +3,10 @@
 ## Setup php8.1
 
 ```bash
+curl -o - https://raw.githubusercontent.com/jedymatt/linux-dev-environment/main/setup-lamp.sh | bash
+```
+
+```bash
 curl -o - https://raw.githubusercontent.com/jedymatt/linux-dev-environment/main/setup-lamp-php81.sh | bash
 ```
 
