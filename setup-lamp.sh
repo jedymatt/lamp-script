@@ -4,7 +4,7 @@ sudo add-apt-repository ppa:ondrej/php
 
 sudo apt update
 
-sudo apt install -y php libapache2-mod-php
+sudo apt install -y php
 
 sudo apt install -y php-fpm libapache2-mod-fcgid
 
