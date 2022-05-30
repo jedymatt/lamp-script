@@ -42,3 +42,9 @@ sudo chown www-data:www-data /var/www/
 ## GitHub Cli
 
 <https://github.com/cli/cli/blob/trunk/docs/install_linux.md#official-sources>
+
+## homebrew
+
+<https://brew.sh/>
+
+## nvm
