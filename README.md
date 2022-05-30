@@ -48,3 +48,10 @@ sudo chown www-data:www-data /var/www/
 <https://brew.sh/>
 
 ## nvm
+
+<https://github.com/nvm-sh/nvm#installing-and-updating>
+
+then:
+```sh
+nvm install --lts
+```
